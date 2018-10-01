@@ -1,4 +1,4 @@
-
+//Segon comentari
 var numeros = new Array(11);
 for(var i=0; i=10; i++){
     numeros[i]= prompt("Introdueix un numero: ");
